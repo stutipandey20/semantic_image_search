@@ -8,7 +8,7 @@
 from utils import load_image, get_image_embedding, get_text_embeddings, find_best_caption
 
 # === Configuration ===
-image_path = "assets/dogs.jpg"  # Replace with your test image path
+image_path = "assets/dog.jpg"  # Replace with your test image path
 captions = [
     "A dog playing in the grass",
     "A cat on a couch",
