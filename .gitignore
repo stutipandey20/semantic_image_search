@@ -10,8 +10,8 @@ __pycache__/
 .DS_Store
 .vscode/
 
-# Images and assets (optional, if you don't want to push them)
-assets/
+# # Images and assets (optional, if you don't want to push them)
+# assets/
 
 # Model files (optional)
 *.pt
